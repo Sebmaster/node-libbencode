@@ -1,5 +1,5 @@
 {
-	"name": "node-libbencode",
+	"name": "libbencode",
 	"description": "A library for the bencode format",
 	"version": "0.0.1",
 	"homepage": "https://github.com/Sebmaster/node-libbencode",
